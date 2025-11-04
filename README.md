@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jasmedia.jasmedia)
 
-Technical consultant at socialanimal.com and tweeplesearch.com. Passionate about understanding problems and designing amazing products.
+Staff Engineer at Unstract(A powerful open-source, no-code platform that automates extraction of unstructured data from long, complex documents—powered by LLMs and human-in-the-loop workflows.). Passionate about understanding problems and designing amazing products.
 
 I love programming, blogging, reading and traveling.
 
