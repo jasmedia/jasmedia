@@ -41,12 +41,12 @@ Data:           PostgreSQL · Redis · Elasticsearch
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaseemjaskp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaseemjaskp&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasmedia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmedia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 ### Let's Connect
 
-I'm always open to conversations about open-source, AI/LLM tooling, and engineering at scale. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jaseem-jas-6ba90525/) or [email](mailto:jaseem@zipstack.com).
+I'm always open to conversations about open-source, AI/LLM tooling, and engineering at scale. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jaseem-jas-6ba90525/) or [email](mailto:jasmedia.jas@gmail.com).
