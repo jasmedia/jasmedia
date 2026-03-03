@@ -1,38 +1,52 @@
-### Hi there, I'm <a href="#" target="_blank">Jaseem Jas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, I'm Jaseem Jas 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaseem-jas-6ba90525/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jasmedia)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jaseemjaskp/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://jasmedia.medium.com/)
+**Staff Engineer & Founding Member at [Unstract](https://unstract.com)** — an open-source, no-code platform that automates extraction of unstructured data from complex documents, powered by LLMs.
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jasmedia.jasmedia)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaseem-jas-6ba90525/)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jasmedia)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://jasmedia.medium.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jaseemjaskp/)
 
-Staff Engineer at Unstract(A powerful open-source, no-code platform that automates extraction of unstructured data from long, complex documents—powered by LLMs and human-in-the-loop workflows.). Passionate about understanding problems and designing amazing products.
+---
 
-I love programming, blogging, reading and traveling.
+### About Me
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I build systems that turn unstructured documents into structured, actionable data at scale. At Unstract, I work across the full stack — from LLM integration and data pipelines to the developer-facing platform — helping teams eliminate manual document processing.
 
-<img align="right" alt="GIF" src="https://github.com/jasmedia/jasmedia/blob/main/5eKX.gif?raw=true" width="408" height="318" />
-  
+I care deeply about clean architecture, developer experience, and shipping software that solves real problems.
 
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Big Data Analytics and Cross Platform Mobile Apps Development wit Flutter;
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I occationally write articles on [medium](https://jasmedia.medium.com/);
-- 📫 How to reach me: jasmedia.jas@gmail.com;
-<!-- - 📝 [Resume](URL).-->
-</br>
+### What I'm Working On
 
-📈 **My GitHub Stats:**
+- 🔧 Building and scaling [Unstract](https://github.com/Zipstack/unstract) — open-source LLM-powered document automation
+- 🧠 Exploring LLM orchestration, prompt engineering, and retrieval-augmented generation
+- ✍️ Writing occasionally on [Medium](https://jasmedia.medium.com/) about engineering and AI
+
+---
+
+### Tech Stack
+
+```text
+Languages:      Python · JavaScript/TypeScript · Swift · Objective-C
+Frontend:       React.js · Next.js
+Backend:        Node.js · Django · FastAPI
+AI/ML:          LLMs · LangChain · RAG · Prompt Engineering
+Infrastructure: Kubernetes · Docker · ArgoCD · CI/CD
+Data:           PostgreSQL · Redis · Elasticsearch
+```
+
+---
+
+### GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasmedia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmedia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaseemjaskp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaseemjaskp&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages" height="165" />
 </p>
 
+---
 
+### Let's Connect
 
-
+I'm always open to conversations about open-source, AI/LLM tooling, and engineering at scale. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jaseem-jas-6ba90525/) or [email](mailto:jaseem@zipstack.com).
