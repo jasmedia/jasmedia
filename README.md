@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/X-@jasmedia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jasmedia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaseem%20Jas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaseem-jas-6ba90525/)
 [![Medium](https://img.shields.io/badge/Medium-jasmedia-12100E?style=flat-square&logo=medium&logoColor=white)](https://jasmedia.medium.com/)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jasmedia.jas@gmail.com)
 
 ---
 
