@@ -1,52 +1,58 @@
-# Hey, I'm Jaseem Jas 👋
+# Hey, I'm Jaseem 👋
 
-**Staff Engineer & Founding Member at [Unstract](https://unstract.com)** — an open-source, no-code platform that automates extraction of unstructured data from complex documents, powered by LLMs.
+**Staff Engineer & Founding Member at [Zipstack](https://github.com/Zipstack)**, where I build [Unstract](https://unstract.com), an open-source, no-code platform for LLM-powered document extraction, and [LLMWhisperer](https://unstract.com/llmwhisperer/), a text extraction API that prepares complex documents for LLMs.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaseem-jas-6ba90525/)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jasmedia)
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white)](https://jasmedia.medium.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jaseemjaskp/)
-
----
-
-### About Me
-
-I build systems that turn unstructured documents into structured, actionable data at scale. At Unstract, I work across the full stack — from LLM integration and data pipelines to the developer-facing platform — helping teams eliminate manual document processing.
-
-I care deeply about clean architecture, developer experience, and shipping software that solves real problems.
+[![X](https://img.shields.io/badge/X-@jasmedia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jasmedia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaseem%20Jas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaseem-jas-6ba90525/)
+[![Medium](https://img.shields.io/badge/Medium-jasmedia-12100E?style=flat-square&logo=medium&logoColor=white)](https://jasmedia.medium.com/)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 ---
 
-### What I'm Working On
+### What I do
 
-- 🔧 Building and scaling [Unstract](https://github.com/Zipstack/unstract) — open-source LLM-powered document automation
-- 🧠 Exploring LLM orchestration, prompt engineering, and retrieval-augmented generation
-- ✍️ Writing occasionally on [Medium](https://jasmedia.medium.com/) about engineering and AI
+I turn messy, unstructured documents into structured data at scale. At Zipstack I work across the whole stack: LLM integration and extraction pipelines, the developer-facing platform, and the Kubernetes infrastructure that runs it in production.
+
+I care about clean architecture, good developer experience, and software that removes real manual work.
 
 ---
 
-### Tech Stack
+### Selected work
 
-```text
-Languages:      Python · JavaScript/TypeScript · Swift · Objective-C
-Frontend:       React.js · Next.js
-Backend:        Node.js · Django · FastAPI
-AI/ML:          LLMs · LangChain · RAG · Prompt Engineering
-Infrastructure: Kubernetes · Docker · ArgoCD · CI/CD
-Data:           PostgreSQL · Redis · Elasticsearch
+| Project | What it is | Stack |
+|---|---|---|
+| [**InferXgate**](https://github.com/jasmedia/InferXgate) | A fast LLM gateway: one API in front of 100+ models | Rust |
+| [**cc-pr-reviewer**](https://github.com/jasmedia/cc-pr-reviewer) | A TUI for reviewing your GitHub PR queue with Claude Code | Python |
+| [**Unstract**](https://github.com/Zipstack/unstract) | Open-source, LLM-powered document extraction platform (core contributor) | Python · React · K8s |
+<!-- Uncomment once the repo is public:
+| [**OnAir TV**](https://github.com/jasmedia/REPO_NAME) | Minimal open-source IPTV player for Google TV | Kotlin · Compose for TV · Media3 |
+-->
+
+---
+
+### Currently exploring
+
+- 🌳 Vectorless, tree-index retrieval as an alternative to chunk-and-embed RAG
+- 🔀 LLM routing, gateways, and cost-aware inference
+- 🤖 AI-assisted developer tooling: code review agents, MCP servers, Claude Code workflows
+
+---
+
+### Tech I work with
+
+```
+Languages       Python · TypeScript · Rust · Swift · Kotlin
+Backend         Django · FastAPI · Node.js
+Frontend        React · Next.js
+AI / LLM        LLM orchestration · RAG · document extraction · prompt evaluation
+Infrastructure  Kubernetes (GKE) · Docker · ArgoCD · GCP · AWS · CI/CD
+Data            PostgreSQL · Redis · Elasticsearch
 ```
 
 ---
 
-### GitHub Stats
+### Let's talk
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jasmedia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmedia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages" height="165" />
-</p>
+I'm happy to chat about open source, LLM infrastructure, and document AI. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/jaseem-jas-6ba90525/) or [email](mailto:YOUR_EMAIL_HERE).
 
----
-
-### Let's Connect
-
-I'm always open to conversations about open-source, AI/LLM tooling, and engineering at scale. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jaseem-jas-6ba90525/) or [email](mailto:jasmedia.jas@gmail.com).
+✍️ I write occasionally on [Medium](https://jasmedia.medium.com/) about engineering and AI.
